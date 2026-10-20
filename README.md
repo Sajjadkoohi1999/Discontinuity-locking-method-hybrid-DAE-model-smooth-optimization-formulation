@@ -1,2 +1,7 @@
 # Discontinuity-locking-method-hybrid-DAE-model-smooth-optimization-formulation
-This repository contains the simulation files for the research titled "Optimally Safe Tank Changeover Operation Using a Smooth Optimization Formulation." These files will be made publicly available upon publication of the work.]ghh
+The Matlab implementation of "Optimally Safe Tank Changeover Operation Using a Smooth
+Optimization Formulation" paper.
+
+https://sl1nk.com/zv0bblq
+
+Feel free to use this code or adapt it to your purpose, and please give credit by citing the above paper.
